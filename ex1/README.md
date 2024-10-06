@@ -51,11 +51,11 @@ You will apply polynomial fitting to temperature data to model non-linear relati
 3. **Run the code**:
     - For house price prediction:
       ```bash
-      python exercise2/house_price_prediction.py
+      python ex1/house_price_prediction.py
       ```
     - For polynomial fitting:
       ```bash
-      python exercise2/city_temperature_prediction.py
+      python ex1/city_temperature_prediction.py
       ```
 
 ---
