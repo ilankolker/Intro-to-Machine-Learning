@@ -36,6 +36,30 @@ You will apply polynomial fitting to temperature data to model non-linear relati
 
 ---
 
+## Instructions 🛠️
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/your-username/your-repo.git
+    ```
+
+2. **Install dependencies** (if needed):
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Run the code**:
+    - For house price prediction:
+      ```bash
+      python exercise2/house_price_prediction.py
+      ```
+    - For polynomial fitting:
+      ```bash
+      python exercise2/city_temperature_prediction.py
+      ```
+
+---
+
 ## Key Concepts 💡
 - **Linear Regression**: Model linear relationships between features and the target variable.
 - **Polynomial Fitting**: Transform inputs to fit more complex, non-linear patterns.
