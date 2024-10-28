@@ -6,4 +6,3 @@ This repository contains materials and projects from the **"Intro to Machine Lea
 - **Model Evaluation** 📊
 - **Feature Engineering** 🔧
 
-Explore the projects to enhance your understanding and skills in machine learning!
